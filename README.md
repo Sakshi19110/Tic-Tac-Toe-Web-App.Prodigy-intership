@@ -16,9 +16,8 @@
 #How to Play
 
 1. Open the web app in your browser
-2. 
-3. Player 1 (X) starts first
-4. 
+2.  Player 1 (X) starts first
+    
 3.Click on any empty cell to make your move
 
 4.Players alternate turns until someone wins or the game ends in a draw
